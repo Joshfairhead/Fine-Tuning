@@ -1,6 +1,7 @@
 ## Introduction
 
-This is a model built with the [Vercel AI SDK](https://sdk.vercel.ai/docs) and [fine-tuned](https://openai.com/blog/gpt-3-5-turbo-fine-tuning-and-api-updates) on my own content. [Read the guide](https://vercel.com/guides/fine-tuning-openai-nextjs) on how you can build your own bot like me.
+This is a model built with the [Vercel AI SDK](https://sdk.vercel.ai/docs) and [fine-tuned](https://openai.com/blog/gpt-3-5-turbo-fine-tuning-and-api-updates) on my own content. 
+[Read the guide](https://vercel.com/guides/fine-tuning-openai-nextjs) on how you can build your own bot like this.
 
 ## Fine-tuning the model
 
